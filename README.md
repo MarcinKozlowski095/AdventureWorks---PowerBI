@@ -1,9 +1,9 @@
 Maven Market task:
 
-connecting & Shaping the Data
-creating the Data Model
-Adding DAX Measures
-Building the Report
+- connecting & Shaping the Data
+- creating the Data Model
+- adding DAX Measures
+- building the Report
 
 ![image](https://github.com/MarcinKozlowski095/AdventureWorks---PowerBI/assets/164804031/53c2151d-fa0b-4264-9c75-a6c391e8b16e)
 ![image](https://github.com/MarcinKozlowski095/AdventureWorks---PowerBI/assets/164804031/2eaf0e9d-a4d0-4d80-a51a-d8c97f265a6e)
